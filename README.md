@@ -1,4 +1,4 @@
 # Intro-to-Cyber-Security
-Implement any two symmetric encryption algorithms using Python. 
-Implement any two Asymmetric encryption algorithms using Python. 
-Implement a hash function to compute the hash of a given string.
+Implemention of two symmetric encryption algorithms using Python. 
+Implemention of two Asymmetric encryption algorithms using Python. 
+Implemention of a hash function to compute the hash of a given string.
